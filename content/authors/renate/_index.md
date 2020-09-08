@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Manfred Lins
+title: Renate Lins
 
 # Username (this should match the folder name)
 authors:
-- admin
+- renate
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Chef
+role: Sekretärin
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:m.lins@linstech.at'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:r.lins@linstech.at'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -37,7 +37,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "m.lins@linstech.at"
+email: "r.lins@linstech.at"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
