@@ -88,7 +88,7 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "m.lins@linstech.at"
+email = "office@linstech.at"
 phone = "+43 5523 54391"
 
 # Address
